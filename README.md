@@ -6,7 +6,7 @@
 
 ## Usage
 
-- These codes reproduce data used to generate the figures in the manuscript. ```ML_neuron_membrane_voltage.cpp``` reproduces the membrane potential oscillation of type-I and type-II neurons for a full oscillation cycle (as shown in Fig. 2A), ```ML_neuron_PRC.cpp``` reproduces the corresponding phase response curve of neurons (as shown in Fig. 2B), and ```ML_neuron_Arnold_tongue.cpp``` reproduces the Arnold tongues or 1:1 frequency locking (entrainment) for type-I and type-II neurons (as shown in Fig. 3).
+- These codes reproduce data used to generate the figures in the manuscript. ```ML_neuron_membrane_voltage.cpp``` reproduces the membrane potential oscillation of type-I and type-II neurons for a full oscillation cycle (as shown in Fig. 2A), ```ML_neuron_PRC.cpp``` reproduces the corresponding phase response curve of neurons (as shown in Fig. 2B), and ```ML_neuron_Arnold_tongue.cpp``` reproduces the Arnold tongues or 1:1 frequency locking (entrainment) for type-I and type-II neurons (as shown in Fig. 3A and B).
 
 #### Compilation
 
